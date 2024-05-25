@@ -4,7 +4,7 @@ namespace Corys.Nuget.Helper.Demo;
     public class HelperMethods
     {
 
-    //testing git
+
         public HelperMethods()
         {
         }
