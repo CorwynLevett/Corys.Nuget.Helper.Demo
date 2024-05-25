@@ -2,7 +2,6 @@ using Corys.Nuget.Helper.Demo;
 using FluentAssertions;
 using System;
 using Xunit;
-using Xunit.Sdk;
 
 namespace HelperUnitTests
 {
