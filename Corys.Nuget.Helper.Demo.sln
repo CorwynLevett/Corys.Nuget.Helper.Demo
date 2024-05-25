@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Corys.Nuget.Helper.Demo", "Corys.Nuget.Helper.Demo.csproj", "{0C2545A5-DCEA-4850-AFBD-085FFE05CB1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corys.Helper.Demo.UnitTests", "..\TestProject4\Corys.Helper.Demo.UnitTests.csproj", "{A78690BD-3402-4BDD-8C6C-ED8F72439439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Corys.Helper.Demo.UnitTests", "Corys.Helper.Demo.UnitTests.csproj", "{EDBCF5B0-7BC5-45DD-835C-45716137C4C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0C2545A5-DCEA-4850-AFBD-085FFE05CB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C2545A5-DCEA-4850-AFBD-085FFE05CB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C2545A5-DCEA-4850-AFBD-085FFE05CB1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A78690BD-3402-4BDD-8C6C-ED8F72439439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A78690BD-3402-4BDD-8C6C-ED8F72439439}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A78690BD-3402-4BDD-8C6C-ED8F72439439}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A78690BD-3402-4BDD-8C6C-ED8F72439439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBCF5B0-7BC5-45DD-835C-45716137C4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBCF5B0-7BC5-45DD-835C-45716137C4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBCF5B0-7BC5-45DD-835C-45716137C4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBCF5B0-7BC5-45DD-835C-45716137C4C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
